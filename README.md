@@ -7,8 +7,6 @@ A drag and drop game where you must correctly match the flags to the unlabeled c
 ## Rules:
 - Each mistake made removes a guessed flag (in case you have guessed one or more).
 
-## Gallery:
-https://imgur.com/a/AJQ5iR8
 
 ## Live Demo:
-https://geography-minigame.vercel.app/
+
