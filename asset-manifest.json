@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/kghthor/Geography-Minigame/static/css/main.92676248.css",
+    "main.js": "/kghthor/Geography-Minigame/static/js/main.487f360d.js",
+    "static/js/787.29cd0c54.chunk.js": "/kghthor/Geography-Minigame/static/js/787.29cd0c54.chunk.js",
+    "static/media/bootstrap-icons.woff?": "/kghthor/Geography-Minigame/static/media/bootstrap-icons.39795c0b4513de014cf8.woff",
+    "static/media/bootstrap-icons.woff2?": "/kghthor/Geography-Minigame/static/media/bootstrap-icons.b7bcc075b395c14ce8c2.woff2",
+    "index.html": "/kghthor/Geography-Minigame/index.html",
+    "main.92676248.css.map": "/kghthor/Geography-Minigame/static/css/main.92676248.css.map",
+    "main.487f360d.js.map": "/kghthor/Geography-Minigame/static/js/main.487f360d.js.map",
+    "787.29cd0c54.chunk.js.map": "/kghthor/Geography-Minigame/static/js/787.29cd0c54.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.92676248.css",
+    "static/js/main.487f360d.js"
+  ]
+}
