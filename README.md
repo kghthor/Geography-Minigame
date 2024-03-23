@@ -9,4 +9,4 @@ A drag and drop game where you must correctly match the flags to the unlabeled c
 
 
 ## Live Demo:
-
+kghthor.github.io/Geography-Minigame/
