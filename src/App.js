@@ -4,7 +4,7 @@ import GameApp from "./components/GameApp";
 import { GameProvider } from "./context/GameContext";
 
 function App() {
-  return (
+  return ( 
     <> 
       <GameProvider>
         <div className="App">
