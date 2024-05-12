@@ -2,7 +2,7 @@ import { createContext, useEffect, useState } from "react";
 import { levels } from "../utils/levels";
 import shuffle from "../utils/shuffleArray";
 
-export const GameContext = createContext();
+export const GameContext = createContext(); 
 
 export const GameProvider = ({ children }) => {
   const [startMatch, setStartMatch] = useState(false);
